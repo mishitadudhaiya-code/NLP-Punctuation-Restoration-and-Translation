@@ -1,0 +1,28 @@
+[Chunk 1]  (original sentence numbers: [17, 18, 9, 11, 20])
+HI: राहुल- यह कैसा सवाल है मां ऐक्चुली राहुल की जगह कोई और होता तब भी शायद मुझे इतना ही बुरा लगता तुम खुश हो बेटी मुझे क्यों ऐसा लगता है कि तुम मुझसे प्यार नहीं करती तुम उससे प्यार नहीं करती तुम कोई समरकैंप वमरकैंप नहीं जा रही हो लेकिन राहुल अंजलि की शादी दिसंबर से पहले नहीं हो सकती है। मेरे डैड कहा करते थे कि मर्द का सिर सिर्फ तीन औरतों के सामने झुकता है। मुझे बताया भी नहीं। ये तो मैंने कभी सोचा ही नहीं था। ऐक्चुली मुझे नींद नहीं आ रही थी और मैंने सोचा कि तुम्हें भी नहीं आ रही होगी और अगर तुम जाग रही होगी तो मेरे बारे में ही सोच रही होगी।
+EN: RAHUL - How is this question if anybody else was in the place of RAHULY RAHULY even then maybe I feel so bad you are happy daughter why I feel that you don't love me you don't love her you don't go to the summer camp but RAHULY's marriage can't be before December. My father told me that the man's head was just lying in front of three women. Not even told me. I never thought of that. Akchuli didn’t get to sleep and I thought you won’t come, and if you wake up, you’d think about me.
+
+[Chunk 2]  (original sentence numbers: [19, 23, 22, 13, 29])
+HI: अंजलि- मैं तुम्हें ही मिलने आ रहा था। खुदा की रहमत तो सुना था आज देख भी लिया बच्ची की दुआ कबूल हो गयी तुम्हें और कोई नहीं मिला। रिफ़त दी तुम मुझसे कोई भी बात छुपा नहीं सकती हो। मां शायद मुझसे फिर से न हो। मैं भी मां हूं।
+EN: I’m going to meet you – I’m going to meet you. God’s grace has been heard today, and the child’s prayer has been accepted, and you have not been seen. You can’t hide anything from me. Maybe I’m not going to be my mother again. I am also a mother.
+
+[Chunk 3]  (original sentence numbers: [4, 34, 33, 32, 30])
+HI: अब तो वो बच्चे मेरी जिंदगी का एक हिस्सा बन चुके हैं। बेटी मकान होता है। प्यार के नहीं वो घर नहीं होता है। मेरी एक छोटी सी प्रॉब्लम है लेकिन वो घर जो समझौते के बलबूते पर बना हो। क्या मैं नहीं चाहती कि तुम खुश रहो तुम्हारा घर बस जाए।
+EN: The children have become part of my life. My daughter is home. Love is not home. I have a small project but the house that is built on the bowl of the agreement. Do I don’t want you to be happy to stay in your home?
+
+[Chunk 4]  (original sentence numbers: [8, 31, 14, 3, 2])
+HI: मुझे छोड़ कर जा रही हो। अमन बहुत अच्छा लड़का है तुम मुझे इस तरह छोड़ कर मत जाया करो। इसे एक समझौता ही समझ लो तुम जाओ शिमला अपने समरकैंप ऑफ्कोर्स मैं खुश हूं और मालूम है तुम अगर चाहो ना तो तुम्हें कोई भी लड़का मिल सकता है। अमन- तुम जानते हो मैं हर साल समर कैंप जाती हूं उन बच्चों को सिंगिंग और डासिंग सिखाने। अमन- पता नहीं कौन फोन पर है?
+EN: You are leaving me. A good guy, don’t leave me like that. Understand it as a compromise you go Shimla your Summer Camp Offcours I'm happy and know you if you don't want you can find any guy. Amnesty - You know I go to summer camp every year to teach those children singing and dancing. I don’t know who is on the phone.
+
+[Chunk 5]  (original sentence numbers: [1, 25, 35, 10, 7])
+HI: यू नो मैंने कितनी बार सोचा कि उसको जाकर कह दूं मेरी सगाई हो गयी है। कहते हैं टूटते तारे को देखकर कुछ मांगो ना तो मिल जाता है आई होप मैं उसको ये सब कह पाऊं। मैंने कभी नहीं सोचा था कि मैं कभी किसी को ये कहूंगा टीना मैं जानता हूं राहुल सिर्फ तुमसे प्यार करता है। राहुल- तुम्हारा सबसे अच्छा दोस्त है ना मेरी बेटी समझौता करेगी और प्यार नहीं करेगी। राहुल- ये तुम क्या कर रहे हो?
+EN: How many times I thought I was going to tell you how much I was going to do. I tell you that I can see the star and I can tell you that I can tell you all. I never thought I would ever say this to anyone Tina I know Rachel just loves you. Rachel is your best friend, my daughter will compromise and will not love. Rachel – What are you doing?
+
+[Chunk 6]  (original sentence numbers: [28, 16, 26, 24, 21])
+HI: अंजलि राहुल को तुम कब से जानती हो? अंजलि तुम्हारा फोन है अपनी मां के सामने एक दुर्गा मां के सामने और राहुल तुम यहां इस वक्त मैं वापस नहीं आ रही। अंजलि तुमसे कुछ पूछूं तुम्हें नहीं लगता यहां पर काफी गर्मी है। मुझसे बहुत प्यार करता है बेटा वहां पर बहुत बर्फ पड़ती है। मेरा पहला प्यार अधूरा रह गया।
+EN: How long do you know Rachel? Anjli your phone is in front of your mother a durga mother and raoul you here at this time I’m not coming back. I don’t think you think it’s too hot here. I love it, I love it, there is a lot of snow. My first love was incomplete.
+
+[Chunk 7]  (original sentence numbers: [12, 6, 15, 27, 5])
+HI: प्यार तो मैंने कर लिया है। कैसी लग रही हूं मैं पर क्या तुम उससे प्यार करती हो? ऐक्चुली तुम बहुत खूबसूरत हो क्योंकि तुम सबसे ज्यादा अलग हो। कॉलेज छोड़ कर जा रही हो तुम मैं तुम्हारी तरह खूबसूरत लगना चाहती थी लेकिन मुझे तो कुछ आता ही नहीं तुमने उससे अपने दिल की बात कह दी। दूसरे कॉलेज के स्टूडेंट्स देखते ही रह जाएंगे।
+EN: Love I have done. How do I feel you love him? You are very beautiful because you are the most different. I wanted to look beautiful like you but I didn’t get anything you told her about your heart. The second college students will be seen.
+
